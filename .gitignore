@@ -1,0 +1,20 @@
+# Entorno virtual de Python
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Variables y secretos
+.env
+*.env
+
+# Modelo generado
+modelo_casas.pkl
+
+# Ollama y modelos locales
+ollama/
+ollama_models/
+
+# Archivos temporales
+*.log
